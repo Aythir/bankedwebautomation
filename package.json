@@ -1,0 +1,26 @@
+{
+  "name": "bankedwebautomation",
+  "version": "1.0.0",
+  "description": "This is a project to show case best practice web automation techniques across Banked's products, namely the hosted checkout.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aythir/bankedwebautomation.git"
+  },
+  "keywords": [
+    "test",
+    "automation"
+  ],
+  "author": "Jordan Caridi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aythir/bankedwebautomation/issues"
+  },
+  "homepage": "https://github.com/Aythir/bankedwebautomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
