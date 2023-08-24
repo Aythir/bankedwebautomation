@@ -8,7 +8,8 @@ Best practice web automation techniques for Banked hosted checkout. The framewor
 
 4) You should see the tests execute like this:
 
-![image](https://github.com/Aythir/bankedwebautomation/assets/30449857/704afc72-95f8-424e-81a6-ad820fd3ae43)
+![image](https://github.com/Aythir/bankedwebautomation/assets/30449857/6f2d1955-ea00-4afa-b7be-79c06f43bfcc)
+
 
 
 # CI/CD
