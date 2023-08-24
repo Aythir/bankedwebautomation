@@ -1,5 +1,5 @@
 # BankedWebAutomation
-Best practice web automation techniques for Banked hosted checkout. The framework chosen for this demo is Playwright. The chosen language for this demo is TypeScript. 
+Best practice web automation techniques for Banked hosted checkout. The framework chosen for this demo is Playwright. The chosen language for this demo is TypeScript. The tests are OS and device agnostic, testing on both Mobile Chrome and Chrome Desktop. 
 
 # To run the tests for the Hosted Checkout
 1) Clone the repo.
